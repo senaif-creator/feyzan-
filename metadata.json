@@ -1,0 +1,6 @@
+{
+  "name": "Kişisel AI Asistan",
+  "description": "Doğal diyalog, yapılandırılmış hafıza ve görev yönetimi sağlayan kişisel yapay zeka asistanı.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
